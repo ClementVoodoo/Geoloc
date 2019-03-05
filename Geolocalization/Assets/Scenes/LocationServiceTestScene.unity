@@ -280,7 +280,7 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 50, y: -30, z: 0}
---- !u!1 &555792010
+--- !u!1 &734324085
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -288,36 +288,35 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
-  - component: {fileID: 555792012}
-  - component: {fileID: 555792011}
+  - component: {fileID: 734324087}
+  - component: {fileID: 734324086}
+  - component: {fileID: 734324088}
   m_Layer: 0
-  m_Name: Location Service Test
+  m_Name: Location Service Manager
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!114 &555792011
+--- !u!114 &734324086
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 555792010}
+  m_GameObject: {fileID: 734324085}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: dc09ee56bf28145fdadcb07f75ce32db, type: 3}
+  m_Script: {fileID: 11500000, guid: ec3d0f4865b8248bd94cbe56d6db50db, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_maxWait: 20
-  textComponent: {fileID: 2099451860}
---- !u!4 &555792012
+--- !u!4 &734324087
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 555792010}
+  m_GameObject: {fileID: 734324085}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
@@ -325,6 +324,18 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &734324088
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 734324085}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 872763d80c7fc43b997f104a544f294b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1272058969
 GameObject:
   m_ObjectHideFlags: 0

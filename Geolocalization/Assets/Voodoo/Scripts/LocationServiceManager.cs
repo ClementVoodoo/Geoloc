@@ -1,26 +1,20 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class LocationServiceManager
+public class LocationServiceManager : SingletonMB<LocationServiceManager>
 {
-    public static LocationServiceManager Instance
+    public delegate void Callback(Vector2 location);
+
+    [SerializeField] private int m_maxWait = 20;
+
+    public void GetLocation(Callback callback)
     {
-        get
-        {
-            if (m_Instance == null)
-            {
-                m_Instance = new LocationServiceManager();
-            }
-            return m_Instance;
-        }
+        StartCoroutine(GetLocationCoroutine(callback));
     }
 
-    public delegate void Callback(Vector2 location);
-    private int m_maxWait = 20;
-    private static LocationServiceManager m_Instance;
-
-    public IEnumerator GetLocation(Callback callback)
+    private IEnumerator GetLocationCoroutine(Callback callback)
     {
+        callback(Vector2.zero);
         if (!Input.location.isEnabledByUser)
         {
             yield break;
