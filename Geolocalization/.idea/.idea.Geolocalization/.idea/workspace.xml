@@ -1,0 +1,789 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8c754794-00a1-4445-bab1-e1128204562a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Assets/Mapbox/Examples/0_PrefabScenes/Location-basedGame.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Mapbox/Examples/0_PrefabScenes/Location-basedGame.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Mapbox/Examples/6_ZoomableMap/ZoomableMap.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Mapbox/Examples/6_ZoomableMap/ZoomableMap.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/UnityConnectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/UnityConnectSettings.asset" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1652352296">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="cs" value="691" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="C#" value="691" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="cs" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="C#" value="4" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Voodoo/Scripts/UserLocalization.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="596">
+              <caret line="25" column="57" selection-start-line="25" selection-start-column="57" selection-end-line="25" selection-end-column="57" />
+              <folding>
+                <marker date="1551803846344" expanded="true" signature="6:149" ph="..." />
+                <marker date="1551803846344" expanded="true" signature="236:684" ph="{...}" />
+                <marker date="1551803846344" expanded="true" signature="291:356" ph="{...}" />
+                <marker date="1551803846344" expanded="true" signature="439:682" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Voodoo/Scripts/Utils/MapBoxUtilsExtended.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="52">
+              <caret line="5" column="29" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
+              <folding>
+                <marker date="1551803695136" expanded="false" signature="6:98" ph="..." />
+                <marker date="1551803695136" expanded="true" signature="129:490" ph="{...}" />
+                <marker date="1551803695136" expanded="true" signature="172:488" ph="{...}" />
+                <marker date="1551803695136" expanded="true" signature="234:323" ph="{...}" />
+                <marker date="1551803695136" expanded="true" signature="383:485" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Mapbox/Unity/Map/AbstractMap.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="344">
+              <caret line="318" column="37" selection-start-line="318" selection-start-column="28" selection-end-line="318" selection-end-column="37" />
+              <folding>
+                <marker date="1539384847000" expanded="false" signature="6:107" ph="..." />
+                <marker date="1539384847000" expanded="true" signature="135:27177" ph="{...}" />
+                <marker date="1539384847000" expanded="false" signature="145:434" ph="..." />
+                <marker date="1539384847000" expanded="true" signature="437:734" ph="/// Abstract map. ... " />
+                <marker date="1539384847000" expanded="true" signature="782:27175" ph="{...}" />
+                <marker date="1539384847000" expanded="false" signature="788:1666" ph="Private Fields" />
+                <marker date="1539384847000" expanded="false" signature="1670:5552" ph="Properties" />
+                <marker date="1539384847000" expanded="true" signature="1733:1830" ph="{...}" />
+                <marker date="1539384847000" expanded="true" signature="1744:1781" ph="{...}" />
+                <marker date="1539384847000" expanded="true" signature="1788:1826" ph="{...}" />
+                <marker date="1539384847000" expanded="true" signature="1874:2123" ph="{...}" />
+                <marker date="1539384847000" expanded="true" signature="1885:1921" ph="{...}" />
+                <marker date="1539384847000" expanded="true" signature="1928:2119" ph="{...}" />
+                <marker date="1539384847000" expanded="true" signature="1964:2032" ph="{...}" />
+                <marker date="1539384847000" expanded="true" signature="2127:2273" ph="/// The map options. ... " />
+                <marker date="1539384847000" expanded="true" signature="2301:2386" ph="{...}" />
+                <marker date="1539384847000" expanded="true" signature="2312:2343" ph="{...}" />
+                <marker date="1539384847000" expanded="true" signature="2350:2382" ph="{...}" />
+                <marker date="1539384847000" expanded="true" signature="2390:2479" ph="/// Options to control the imagery component of the map. ... " />
+                <marker date="1539384847000" expanded="true" signature="2545:2591" ph="{...}" />
+                <marker date="1539384847000" expanded="true" signature="2556:2587" ph="{...}" />
+                <marker date="1539384847000" expanded="true" signature="2595:2695" ph="/// Options to control the terrain/ elevation component of the map. ... " />
+                <marker date="1539384847000" expanded="true" signature="2758:2804" ph="{...}" />
+                <marker date="1539384847000" expanded="true" signature="2769:2800" ph="{...}" />
+                <marker date="1539384847000" expanded="true" signature="2808:3024" ph="/// The vector data. ... " />
+                <marker date="1539384847000" expanded="true" signature="3093:3142" ph="{...}" />
+                <marker date="1539384847000" expanded="true" signature="3104:3138" ph="{...}" />
+                <marker date="1539384847000" expanded="true" signature="3185:3247" ph="{...}" />
+                <marker date="1539384847000" expanded="true" signature="3196:3243" ph="{...}" />
+                <marker date="1539384847000" expanded="true" signature="3281:3334" ph="{...}" />
+                <marker date="1539384847000" expanded="true" signature="3292:3330" ph="{...}" />
+                <marker date="1539384847000" expanded="true" signature="3369:3426" ph="{...}" />
+                <marker date="1539384847000" expanded="true" signature="3380:3422" ph="{...}" />
+                <marker date="1539384847000" expanded="true" signature="3456:3508" ph="{...}" />
+                <marker date="1539384847000" expanded="true" signature="3467:3504" ph="{...}" />
+                <marker date="1539384847000" expanded="true" signature="3512:3679" ph="/// Gets the absolute zoom of the tiles being currently rendered. ... " />
+                <marker date="1539384847000" expanded="true" signature="3705:3788" ph="{...}" />
+                <marker date="1539384847000" expanded="true" signature="3716:3784" ph="{...}" />
+                <marker date="1539384847000" expanded="true" signature="3792:4004" ph="/// Gets the current zoom value of the map. ... " />
+                <marker date="1539384847000" expanded="true" signature="4024:4090" ph="{...}" />
+                <marker date="1539384847000" expanded="true" signature="4035:4086" ph="{...}" />
+                <marker date="1539384847000" expanded="true" signature="4125:4173" ph="{...}" />
+                <marker date="1539384847000" expanded="true" signature="4177:4390" ph="/// Gets the initial zoom at which the map was initialized. ... " />
+                <marker date="1539384847000" expanded="true" signature="4415:4465" ph="{...}" />
+                <marker date="1539384847000" expanded="true" signature="4426:4461" ph="{...}" />
+                <marker date="1539384847000" expanded="true" signature="4491:4538" ph="{...}" />
+                <marker date="1539384847000" expanded="true" signature="4502:4534" ph="{...}" />
+                <marker date="1539384847000" expanded="true" signature="4542:4733" ph="/// Setting to trigger map initialization in Unity's Start method. ... " />
+                <marker date="1539384847000" expanded="true" signature="4765:4870" ph="{...}" />
+                <marker date="1539384847000" expanded="true" signature="4776:4817" ph="{...}" />
+                <marker date="1539384847000" expanded="true" signature="4824:4866" ph="{...}" />
+                <marker date="1539384847000" expanded="true" signature="4919:4971" ph="{...}" />
+                <marker date="1539384847000" expanded="true" signature="4930:4967" ph="{...}" />
+                <marker date="1539384847000" expanded="true" signature="4975:5133" ph="/// Gets the loading texture used as a placeholder while the image tile is loading. ... " />
+                <marker date="1539384847000" expanded="true" signature="5167:5228" ph="{...}" />
+                <marker date="1539384847000" expanded="true" signature="5178:5224" ph="{...}" />
+                <marker date="1539384847000" expanded="true" signature="5232:5351" ph="/// Gets the tile material used for map tiles. ... " />
+                <marker date="1539384847000" expanded="true" signature="5382:5441" ph="{...}" />
+                <marker date="1539384847000" expanded="true" signature="5393:5437" ph="{...}" />
+                <marker date="1539384847000" expanded="true" signature="5477:5538" ph="{...}" />
+                <marker date="1539384847000" expanded="true" signature="5488:5534" ph="{...}" />
+                <marker date="1539384847000" expanded="true" signature="5556:9604" ph="Public Methods" />
+                <marker date="1539384847000" expanded="true" signature="5581:5963" ph="/// Initialize the map using the specified latLon and zoom. ... " />
+                <marker date="1539384847000" expanded="true" signature="6023:6311" ph="{...}" />
+                <marker date="1539384847000" expanded="true" signature="6083:6126" ph="{...}" />
+                <marker date="1539384847000" expanded="true" signature="6346:6446" ph="{...}" />
+                <marker date="1539384847000" expanded="true" signature="6496:6532" ph="{...}" />
+                <marker date="1539384847000" expanded="true" signature="6577:6677" ph="{...}" />
+                <marker date="1539384847000" expanded="true" signature="6681:7064" ph="/// Updates the map. ... " />
+                <marker date="1539384847000" expanded="true" signature="7125:8683" ph="{...}" />
+                <marker date="1539384847000" expanded="true" signature="7394:7423" ph="{...}" />
+                <marker date="1539384847000" expanded="true" signature="8445:8562" ph="{...}" />
+                <marker date="1539384847000" expanded="true" signature="8652:8679" ph="{...}" />
+                <marker date="1539384847000" expanded="true" signature="8687:8807" ph="/// Resets the map. ... " />
+                <marker date="1539384847000" expanded="true" signature="8860:9107" ph="{...}" />
+                <marker date="1539384847000" expanded="true" signature="9141:9591" ph="{...}" />
+                <marker date="1539384847000" expanded="true" signature="9152:9587" ph="{...}" />
+                <marker date="1539384847000" expanded="true" signature="9202:9477" ph="{...}" />
+                <marker date="1539384847000" expanded="true" signature="9404:9438" ph="{...}" />
+                <marker date="1539384847000" expanded="true" signature="9506:9551" ph="{...}" />
+                <marker date="1539384847000" expanded="false" signature="9608:19383" ph="Private/Protected Methods" />
+                <marker date="1539384847000" expanded="true" signature="9674:9801" ph="{...}" />
+                <marker date="1539384847000" expanded="true" signature="9868:9963" ph="{...}" />
+                <marker date="1539384847000" expanded="true" signature="9933:9959" ph="{...}" />
+                <marker date="1539384847000" expanded="true" signature="10002:10113" ph="{...}" />
+                <marker date="1539384847000" expanded="true" signature="10116:10327" ph="/// Sets up map. ... " />
+                <marker date="1539384847000" expanded="true" signature="10363:10915" ph="{...}" />
+                <marker date="1539384847000" expanded="true" signature="10469:10514" ph="{...}" />
+                <marker date="1539384847000" expanded="true" signature="10566:10611" ph="{...}" />
+                <marker date="1539384847000" expanded="true" signature="10666:10713" ph="{...}" />
+                <marker date="1539384847000" expanded="true" signature="10807:10881" ph="{...}" />
+                <marker date="1539384847000" expanded="true" signature="10990:11389" ph="{...}" />
+                <marker date="1539384847000" expanded="true" signature="11111:11385" ph="{...}" />
+                <marker date="1539384847000" expanded="true" signature="11225:11270" ph="{...}" />
+                <marker date="1539384847000" expanded="true" signature="11279:11380" ph="{...}" />
+                <marker date="1539384847000" expanded="true" signature="11325:11373" ph="{...}" />
+                <marker date="1539384847000" expanded="true" signature="11466:11513" ph="{...}" />
+                <marker date="1539384847000" expanded="true" signature="11595:11645" ph="{...}" />
+                <marker date="1539384847000" expanded="true" signature="11681:11709" ph="{...}" />
+                <marker date="1539384847000" expanded="true" signature="11713:11940" ph="/// Apply Snap World to Zero setting by moving map in Y Axis such that ... " />
+                <marker date="1539384847000" expanded="true" signature="12001:12371" ph="{...}" />
+                <marker date="1539384847000" expanded="true" signature="12053:12233" ph="{...}" />
+                <marker date="1539384847000" expanded="true" signature="12241:12367" ph="{...}" />
+                <marker date="1539384847000" expanded="true" signature="12375:12498" ph="/// Initializes the map using the mapOptions. ... " />
+                <marker date="1539384847000" expanded="true" signature="12557:14350" ph="{...}" />
+                <marker date="1539384847000" expanded="true" signature="13360:13429" ph="{...}" />
+                <marker date="1539384847000" expanded="true" signature="13526:13607" ph="{...}" />
+                <marker date="1539384847000" expanded="true" signature="13719:13809" ph="{...}" />
+                <marker date="1539384847000" expanded="true" signature="13909:14006" ph="{...}" />
+                <marker date="1539384847000" expanded="true" signature="14104:14199" ph="{...}" />
+                <marker date="1539384847000" expanded="true" signature="14387:14715" ph="{...}" />
+                <marker date="1539384847000" expanded="true" signature="14439:14711" ph="{...}" />
+                <marker date="1539384847000" expanded="true" signature="14754:15234" ph="{...}" />
+                <marker date="1539384847000" expanded="true" signature="14810:15230" ph="{...}" />
+                <marker date="1539384847000" expanded="true" signature="15268:16062" ph="{...}" />
+                <marker date="1539384847000" expanded="true" signature="15338:16006" ph="{...}" />
+                <marker date="1539384847000" expanded="true" signature="15527:15951" ph="{...}" />
+                <marker date="1539384847000" expanded="true" signature="16014:16058" ph="{...}" />
+                <marker date="1539384847000" expanded="true" signature="16131:16950" ph="{...}" />
+                <marker date="1539384847000" expanded="true" signature="16367:16499" ph="{...}" />
+                <marker date="1539384847000" expanded="true" signature="16452:16494" ph="{...}" />
+                <marker date="1539384847000" expanded="true" signature="16534:16581" ph="{...}" />
+                <marker date="1539384847000" expanded="true" signature="16620:16720" ph="{...}" />
+                <marker date="1539384847000" expanded="true" signature="16761:16946" ph="{...}" />
+                <marker date="1539384847000" expanded="true" signature="16807:16941" ph="{...}" />
+                <marker date="1539384847000" expanded="true" signature="17026:17080" ph="{...}" />
+                <marker date="1539384847000" expanded="true" signature="17161:17294" ph="{...}" />
+                <marker date="1539384847000" expanded="true" signature="17195:17260" ph="{...}" />
+                <marker date="1539384847000" expanded="true" signature="17381:17688" ph="{...}" />
+                <marker date="1539384847000" expanded="true" signature="17484:17684" ph="{...}" />
+                <marker date="1539384847000" expanded="true" signature="17617:17659" ph="{...}" />
+                <marker date="1539384847000" expanded="true" signature="17728:17928" ph="{...}" />
+                <marker date="1539384847000" expanded="true" signature="18008:18281" ph="{...}" />
+                <marker date="1539384847000" expanded="true" signature="18135:18258" ph="{...}" />
+                <marker date="1539384847000" expanded="true" signature="18359:18414" ph="{...}" />
+                <marker date="1539384847000" expanded="true" signature="18497:19068" ph="{...}" />
+                <marker date="1539384847000" expanded="true" signature="18625:18878" ph="{...}" />
+                <marker date="1539384847000" expanded="true" signature="18635:18747" ph="/* we got a visualizer. Update only the visualizer. ... */" />
+                <marker date="1539384847000" expanded="true" signature="18886:19045" ph="{...}" />
+                <marker date="1539384847000" expanded="true" signature="18896:19011" ph="/* We are updating a core property of vector section. ... */" />
+                <marker date="1539384847000" expanded="true" signature="19108:19369" ph="{...}" />
+                <marker date="1539384847000" expanded="true" signature="19227:19271" ph="{...}" />
+                <marker date="1539384847000" expanded="false" signature="19387:23115" ph="Conversion and Height Query Methods" />
+                <marker date="1539384847000" expanded="true" signature="19497:19833" ph="{...}" />
+                <marker date="1539384847000" expanded="true" signature="19924:20433" ph="{...}" />
+                <marker date="1539384847000" expanded="true" signature="20173:20375" ph="{...}" />
+                <marker date="1539384847000" expanded="true" signature="20383:20428" ph="{...}" />
+                <marker date="1539384847000" expanded="true" signature="20437:20766" ph="/// Converts a latitude longitude into map space position. ... " />
+                <marker date="1539384847000" expanded="true" signature="20863:21754" ph="{...}" />
+                <marker date="1539384847000" expanded="true" signature="20951:21729" ph="{...}" />
+                <marker date="1539384847000" expanded="true" signature="21299:21724" ph="{...}" />
+                <marker date="1539384847000" expanded="true" signature="21328:21718" ph="{...}" />
+                <marker date="1539384847000" expanded="true" signature="21342:21535" ph="/* Calculate height in the local space of the tile gameObject. ... */" />
+                <marker date="1539384847000" expanded="true" signature="21758:21970" ph="/// Converts a position in map space into a laitude longitude. ... " />
+                <marker date="1539384847000" expanded="true" signature="22039:22323" ph="{...}" />
+                <marker date="1539384847000" expanded="true" signature="22327:22534" ph="/// Queries the real world elevation data in Unity units at a given latitude longitude. ... " />
+                <marker date="1539384847000" expanded="true" signature="22604:22697" ph="{...}" />
+                <marker date="1539384847000" expanded="true" signature="22701:22903" ph="/// Queries the real world elevation data in Meters at a given latitude longitude. ... " />
+                <marker date="1539384847000" expanded="true" signature="22969:23102" ph="{...}" />
+                <marker date="1539384847000" expanded="false" signature="23119:26689" ph="Map Property Related Changes Methods" />
+                <marker date="1539384847000" expanded="true" signature="23228:23273" ph="{...}" />
+                <marker date="1539384847000" expanded="true" signature="23357:23549" ph="{...}" />
+                <marker date="1539384847000" expanded="true" signature="23607:23647" ph="{...}" />
+                <marker date="1539384847000" expanded="true" signature="23714:23766" ph="{...}" />
+                <marker date="1539384847000" expanded="true" signature="23828:23876" ph="{...}" />
+                <marker date="1539384847000" expanded="true" signature="23880:24090" ph="/// Sets the extent type and parameters to control the maps extent. ... " />
+                <marker date="1539384847000" expanded="true" signature="24184:24496" ph="{...}" />
+                <marker date="1539384847000" expanded="true" signature="24270:24464" ph="{...}" />
+                <marker date="1539384847000" expanded="true" signature="24410:24459" ph="{...}" />
+                <marker date="1539384847000" expanded="true" signature="24500:24671" ph="/// Set parameters for current extent calculator strategy. ... " />
+                <marker date="1539384847000" expanded="true" signature="24739:24885" ph="{...}" />
+                <marker date="1539384847000" expanded="true" signature="24889:25321" ph="/// Sets the positions of the map's root transform. ... " />
+                <marker date="1539384847000" expanded="true" signature="25392:25508" ph="{...}" />
+                <marker date="1539384847000" expanded="true" signature="25512:25741" ph="/// Translates map root by the terrain elevation at the center geo location. ... " />
+                <marker date="1539384847000" expanded="true" signature="25790:25899" ph="{...}" />
+                <marker date="1539384847000" expanded="true" signature="25903:26073" ph="/// Sets the map to use real world scale for map tile. ... " />
+                <marker date="1539384847000" expanded="true" signature="26111:26233" ph="{...}" />
+                <marker date="1539384847000" expanded="true" signature="26237:26428" ph="/// Sets the map to use custom scale for map tiles. ... " />
+                <marker date="1539384847000" expanded="true" signature="26493:26676" ph="{...}" />
+                <marker date="1539384847000" expanded="false" signature="26693:27172" ph="Events" />
+                <marker date="1539384847000" expanded="true" signature="26710:26833" ph="/// Event delegate, gets called after map is initialized ... " />
+                <marker date="1539384847000" expanded="true" signature="26888:27060" ph="/// Event delegate, gets called after map is updated. ... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Mapbox/Unity/MapboxAccess.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Mapbox/Core/mapbox-sdk-cs/Utils/Vector2d/Vector2d.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Voodoo/Scripts/UserLocalization.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Mapbox/Unity/Map/AbstractMap.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Voodoo/Scripts/Utils/MapBoxUtilsExtended.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Mapbox/Core/mapbox-sdk-cs/Utils/Vector2d/Vector2d.cs" />
+        <option value="$PROJECT_DIR$/Assets/Voodoo/Scripts/Utils/MapBoxUtilsExtended.cs" />
+        <option value="$PROJECT_DIR$/Assets/Voodoo/Scripts/UserLocalization.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1680" />
+    <option name="height" value="947" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="UnityExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="UnityExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="48f920db:UnityExplorerNode$AssetsRoot" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-hidden-items" value="false" />
+      </pane>
+      <pane id="FileSystemExplorer" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Attach to Unity Editor.Attach to Unity Editor" />
+      <item itemvalue="Attach to Unity Editor.Attach to Unity Editor &amp; Play" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8c754794-00a1-4445-bab1-e1128204562a" name="Default Changelist" comment="" />
+      <created>1551784319282</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1551784319282</updated>
+      <workItem from="1551784323626" duration="3433000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="3433000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1680" height="947" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24969475" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="NuGet" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unity" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unit Tests" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Errors In Solution" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/Mapbox/Unity/MapboxAccess.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2022">
+          <caret line="98" selection-start-line="98" selection-end-line="98" />
+          <folding>
+            <marker date="1539384831000" expanded="true" signature="22:8108" ph="{...}" />
+            <marker date="1539384831000" expanded="false" signature="32:321" ph="..." />
+            <marker date="1539384831000" expanded="true" signature="324:583" ph="/// Object for retrieving an API token and making http requests. ... " />
+            <marker date="1539384831000" expanded="true" signature="624:7889" ph="{...}" />
+            <marker date="1539384831000" expanded="true" signature="877:937" ph="/// The singleton instance. ... " />
+            <marker date="1539384831000" expanded="true" signature="975:1098" ph="{...}" />
+            <marker date="1539384831000" expanded="true" signature="986:1094" ph="{...}" />
+            <marker date="1539384831000" expanded="true" signature="1018:1067" ph="{...}" />
+            <marker date="1539384831000" expanded="true" signature="1359:1424" ph="/// The Mapbox API access token. ... " />
+            <marker date="1539384831000" expanded="true" signature="1467:1519" ph="{...}" />
+            <marker date="1539384831000" expanded="true" signature="1478:1515" ph="{...}" />
+            <marker date="1539384831000" expanded="true" signature="1537:1706" ph="{...}" />
+            <marker date="1539384831000" expanded="true" signature="1646:1702" ph="{...}" />
+            <marker date="1539384831000" expanded="true" signature="1802:2634" ph="{...}" />
+            <marker date="1539384831000" expanded="true" signature="1836:1948" ph="{...}" />
+            <marker date="1539384831000" expanded="true" signature="1866:1942" ph="{...}" />
+            <marker date="1539384831000" expanded="true" signature="2030:2086" ph="{...}" />
+            <marker date="1539384831000" expanded="true" signature="2094:2630" ph="{...}" />
+            <marker date="1539384831000" expanded="true" signature="2168:2508" ph="{...}" />
+            <marker date="1539384831000" expanded="true" signature="2210:2266" ph="{...}" />
+            <marker date="1539384831000" expanded="true" signature="2352:2502" ph="{...}" />
+            <marker date="1539384831000" expanded="true" signature="2671:3447" ph="{...}" />
+            <marker date="1539384831000" expanded="true" signature="3161:3332" ph="{...}" />
+            <marker date="1539384831000" expanded="true" signature="3174:3210" ph="{...}" />
+            <marker date="1539384831000" expanded="true" signature="3241:3327" ph="{...}" />
+            <marker date="1539384831000" expanded="true" signature="3451:3633" ph="/// Loads the access token from &lt;see href=&quot;https://docs.unity3d.com/Manual/BestPracticeUnderstandingPerformanceIn ... " />
+            <marker date="1539384831000" expanded="true" signature="3666:4298" ph="{...}" />
+            <marker date="1539384831000" expanded="true" signature="3719:4006" ph="{...}" />
+            <marker date="1539384831000" expanded="true" signature="3872:3948" ph="{...}" />
+            <marker date="1539384831000" expanded="true" signature="4329:4594" ph="{...}" />
+            <marker date="1539384831000" expanded="true" signature="4624:5261" ph="{...}" />
+            <marker date="1539384831000" expanded="true" signature="4632:4892" ph="/* TODO: enable after token validation has been made async ... */" />
+            <marker date="1539384831000" expanded="true" signature="4899:5156" ph="{...}" />
+            <marker date="1539384831000" expanded="true" signature="5180:5257" ph="{...}" />
+            <marker date="1539384831000" expanded="true" signature="5316:5489" ph="{...}" />
+            <marker date="1539384831000" expanded="true" signature="5527:5767" ph="{...}" />
+            <marker date="1539384831000" expanded="true" signature="5603:5684" ph="{...}" />
+            <marker date="1539384831000" expanded="true" signature="5771:5962" ph="/// Makes an asynchronous url query. ... " />
+            <marker date="1539384831000" expanded="true" signature="6142:6242" ph="{...}" />
+            <marker date="1539384831000" expanded="true" signature="6269:6320" ph="/// Lazy geocoder. ... " />
+            <marker date="1539384831000" expanded="true" signature="6347:6508" ph="{...}" />
+            <marker date="1539384831000" expanded="true" signature="6358:6504" ph="{...}" />
+            <marker date="1539384831000" expanded="true" signature="6390:6477" ph="{...}" />
+            <marker date="1539384831000" expanded="true" signature="6539:6592" ph="/// Lazy Directions. ... " />
+            <marker date="1539384831000" expanded="true" signature="6623:6792" ph="{...}" />
+            <marker date="1539384831000" expanded="true" signature="6634:6788" ph="{...}" />
+            <marker date="1539384831000" expanded="true" signature="6668:6759" ph="{...}" />
+            <marker date="1539384831000" expanded="true" signature="6822:6876" ph="/// Lazy Map Matcher. ... " />
+            <marker date="1539384831000" expanded="true" signature="6907:7107" ph="{...}" />
+            <marker date="1539384831000" expanded="true" signature="6918:7103" ph="{...}" />
+            <marker date="1539384831000" expanded="true" signature="6952:7074" ph="{...}" />
+            <marker date="1539384831000" expanded="true" signature="7146:7204" ph="/// Lazy token validator. ... " />
+            <marker date="1539384831000" expanded="true" signature="7243:7386" ph="{...}" />
+            <marker date="1539384831000" expanded="true" signature="7254:7382" ph="{...}" />
+            <marker date="1539384831000" expanded="true" signature="7292:7349" ph="{...}" />
+            <marker date="1539384831000" expanded="true" signature="7413:7541" ph="/// Lazy TileJSON wrapper: https://www.mapbox.com/api-documentation/##retrieve-tilejson-metadata ... " />
+            <marker date="1539384831000" expanded="true" signature="7568:7760" ph="{...}" />
+            <marker date="1539384831000" expanded="true" signature="7579:7756" ph="{...}" />
+            <marker date="1539384831000" expanded="true" signature="7611:7729" ph="{...}" />
+            <marker date="1539384831000" expanded="true" signature="7804:7886" ph="{...}" />
+            <marker date="1539384831000" expanded="true" signature="7872:7882" ph="{...}" />
+            <marker date="1539384831000" expanded="true" signature="7924:8106" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Mapbox/Core/mapbox-sdk-cs/Utils/Vector2d/Vector2d.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="67">
+          <caret line="10" column="24" lean-forward="true" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+          <folding>
+            <marker date="1551803580285" expanded="true" signature="22:5060" ph="{...}" />
+            <marker date="1551803580285" expanded="false" signature="35:94" ph="..." />
+            <marker date="1551803580285" expanded="true" signature="135:5058" ph="{...}" />
+            <marker date="1551803580285" expanded="true" signature="250:684" ph="{...}" />
+            <marker date="1551803580285" expanded="true" signature="261:453" ph="{...}" />
+            <marker date="1551803580285" expanded="true" signature="285:448" ph="{...}" />
+            <marker date="1551803580285" expanded="true" signature="460:680" ph="{...}" />
+            <marker date="1551803580285" expanded="true" signature="484:675" ph="{...}" />
+            <marker date="1551803580285" expanded="true" signature="729:855" ph="{...}" />
+            <marker date="1551803580285" expanded="true" signature="740:851" ph="{...}" />
+            <marker date="1551803580285" expanded="true" signature="897:980" ph="{...}" />
+            <marker date="1551803580285" expanded="true" signature="908:976" ph="{...}" />
+            <marker date="1551803580285" expanded="true" signature="1025:1096" ph="{...}" />
+            <marker date="1551803580285" expanded="true" signature="1036:1092" ph="{...}" />
+            <marker date="1551803580285" expanded="true" signature="1127:1189" ph="{...}" />
+            <marker date="1551803580285" expanded="true" signature="1138:1185" ph="{...}" />
+            <marker date="1551803580285" expanded="true" signature="1219:1277" ph="{...}" />
+            <marker date="1551803580285" expanded="true" signature="1230:1273" ph="{...}" />
+            <marker date="1551803580285" expanded="true" signature="1306:1366" ph="{...}" />
+            <marker date="1551803580285" expanded="true" signature="1317:1362" ph="{...}" />
+            <marker date="1551803580285" expanded="true" signature="1398:1458" ph="{...}" />
+            <marker date="1551803580285" expanded="true" signature="1409:1454" ph="{...}" />
+            <marker date="1551803580285" expanded="true" signature="1497:1535" ph="{...}" />
+            <marker date="1551803580285" expanded="true" signature="1596:1650" ph="{...}" />
+            <marker date="1551803580285" expanded="true" signature="1711:1765" ph="{...}" />
+            <marker date="1551803580285" expanded="true" signature="1814:1858" ph="{...}" />
+            <marker date="1551803580285" expanded="true" signature="1917:1967" ph="{...}" />
+            <marker date="1551803580285" expanded="true" signature="2025:2075" ph="{...}" />
+            <marker date="1551803580285" expanded="true" signature="2134:2184" ph="{...}" />
+            <marker date="1551803580285" expanded="true" signature="2246:2310" ph="{...}" />
+            <marker date="1551803580285" expanded="true" signature="2372:2445" ph="{...}" />
+            <marker date="1551803580285" expanded="true" signature="2492:2538" ph="{...}" />
+            <marker date="1551803580285" expanded="true" signature="2607:2724" ph="{...}" />
+            <marker date="1551803580285" expanded="true" signature="2822:3058" ph="{...}" />
+            <marker date="1551803580285" expanded="true" signature="3114:3168" ph="{...}" />
+            <marker date="1551803580285" expanded="true" signature="3205:3257" ph="{...}" />
+            <marker date="1551803580285" expanded="true" signature="3284:3434" ph="{...}" />
+            <marker date="1551803580285" expanded="true" signature="3471:3569" ph="{...}" />
+            <marker date="1551803580285" expanded="true" signature="3606:3674" ph="{...}" />
+            <marker date="1551803580285" expanded="true" signature="3719:3912" ph="{...}" />
+            <marker date="1551803580285" expanded="true" signature="3968:4017" ph="{...}" />
+            <marker date="1551803580285" expanded="true" signature="4075:4185" ph="{...}" />
+            <marker date="1551803580285" expanded="true" signature="4242:4279" ph="{...}" />
+            <marker date="1551803580285" expanded="true" signature="4355:4484" ph="{...}" />
+            <marker date="1551803580285" expanded="true" signature="4533:4576" ph="{...}" />
+            <marker date="1551803580285" expanded="true" signature="4608:4663" ph="{...}" />
+            <marker date="1551803580285" expanded="true" signature="4721:4803" ph="{...}" />
+            <marker date="1551803580285" expanded="true" signature="4861:4943" ph="{...}" />
+            <marker date="1551803580285" expanded="true" signature="4972:5055" ph="{...}" />
+            <marker date="1551803580285" expanded="true" signature="5000:5032" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Mapbox/Unity/Map/AbstractMap.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="344">
+          <caret line="318" column="37" selection-start-line="318" selection-start-column="28" selection-end-line="318" selection-end-column="37" />
+          <folding>
+            <marker date="1539384847000" expanded="false" signature="6:107" ph="..." />
+            <marker date="1539384847000" expanded="true" signature="135:27177" ph="{...}" />
+            <marker date="1539384847000" expanded="false" signature="145:434" ph="..." />
+            <marker date="1539384847000" expanded="true" signature="437:734" ph="/// Abstract map. ... " />
+            <marker date="1539384847000" expanded="true" signature="782:27175" ph="{...}" />
+            <marker date="1539384847000" expanded="false" signature="788:1666" ph="Private Fields" />
+            <marker date="1539384847000" expanded="false" signature="1670:5552" ph="Properties" />
+            <marker date="1539384847000" expanded="true" signature="1733:1830" ph="{...}" />
+            <marker date="1539384847000" expanded="true" signature="1744:1781" ph="{...}" />
+            <marker date="1539384847000" expanded="true" signature="1788:1826" ph="{...}" />
+            <marker date="1539384847000" expanded="true" signature="1874:2123" ph="{...}" />
+            <marker date="1539384847000" expanded="true" signature="1885:1921" ph="{...}" />
+            <marker date="1539384847000" expanded="true" signature="1928:2119" ph="{...}" />
+            <marker date="1539384847000" expanded="true" signature="1964:2032" ph="{...}" />
+            <marker date="1539384847000" expanded="true" signature="2127:2273" ph="/// The map options. ... " />
+            <marker date="1539384847000" expanded="true" signature="2301:2386" ph="{...}" />
+            <marker date="1539384847000" expanded="true" signature="2312:2343" ph="{...}" />
+            <marker date="1539384847000" expanded="true" signature="2350:2382" ph="{...}" />
+            <marker date="1539384847000" expanded="true" signature="2390:2479" ph="/// Options to control the imagery component of the map. ... " />
+            <marker date="1539384847000" expanded="true" signature="2545:2591" ph="{...}" />
+            <marker date="1539384847000" expanded="true" signature="2556:2587" ph="{...}" />
+            <marker date="1539384847000" expanded="true" signature="2595:2695" ph="/// Options to control the terrain/ elevation component of the map. ... " />
+            <marker date="1539384847000" expanded="true" signature="2758:2804" ph="{...}" />
+            <marker date="1539384847000" expanded="true" signature="2769:2800" ph="{...}" />
+            <marker date="1539384847000" expanded="true" signature="2808:3024" ph="/// The vector data. ... " />
+            <marker date="1539384847000" expanded="true" signature="3093:3142" ph="{...}" />
+            <marker date="1539384847000" expanded="true" signature="3104:3138" ph="{...}" />
+            <marker date="1539384847000" expanded="true" signature="3185:3247" ph="{...}" />
+            <marker date="1539384847000" expanded="true" signature="3196:3243" ph="{...}" />
+            <marker date="1539384847000" expanded="true" signature="3281:3334" ph="{...}" />
+            <marker date="1539384847000" expanded="true" signature="3292:3330" ph="{...}" />
+            <marker date="1539384847000" expanded="true" signature="3369:3426" ph="{...}" />
+            <marker date="1539384847000" expanded="true" signature="3380:3422" ph="{...}" />
+            <marker date="1539384847000" expanded="true" signature="3456:3508" ph="{...}" />
+            <marker date="1539384847000" expanded="true" signature="3467:3504" ph="{...}" />
+            <marker date="1539384847000" expanded="true" signature="3512:3679" ph="/// Gets the absolute zoom of the tiles being currently rendered. ... " />
+            <marker date="1539384847000" expanded="true" signature="3705:3788" ph="{...}" />
+            <marker date="1539384847000" expanded="true" signature="3716:3784" ph="{...}" />
+            <marker date="1539384847000" expanded="true" signature="3792:4004" ph="/// Gets the current zoom value of the map. ... " />
+            <marker date="1539384847000" expanded="true" signature="4024:4090" ph="{...}" />
+            <marker date="1539384847000" expanded="true" signature="4035:4086" ph="{...}" />
+            <marker date="1539384847000" expanded="true" signature="4125:4173" ph="{...}" />
+            <marker date="1539384847000" expanded="true" signature="4177:4390" ph="/// Gets the initial zoom at which the map was initialized. ... " />
+            <marker date="1539384847000" expanded="true" signature="4415:4465" ph="{...}" />
+            <marker date="1539384847000" expanded="true" signature="4426:4461" ph="{...}" />
+            <marker date="1539384847000" expanded="true" signature="4491:4538" ph="{...}" />
+            <marker date="1539384847000" expanded="true" signature="4502:4534" ph="{...}" />
+            <marker date="1539384847000" expanded="true" signature="4542:4733" ph="/// Setting to trigger map initialization in Unity's Start method. ... " />
+            <marker date="1539384847000" expanded="true" signature="4765:4870" ph="{...}" />
+            <marker date="1539384847000" expanded="true" signature="4776:4817" ph="{...}" />
+            <marker date="1539384847000" expanded="true" signature="4824:4866" ph="{...}" />
+            <marker date="1539384847000" expanded="true" signature="4919:4971" ph="{...}" />
+            <marker date="1539384847000" expanded="true" signature="4930:4967" ph="{...}" />
+            <marker date="1539384847000" expanded="true" signature="4975:5133" ph="/// Gets the loading texture used as a placeholder while the image tile is loading. ... " />
+            <marker date="1539384847000" expanded="true" signature="5167:5228" ph="{...}" />
+            <marker date="1539384847000" expanded="true" signature="5178:5224" ph="{...}" />
+            <marker date="1539384847000" expanded="true" signature="5232:5351" ph="/// Gets the tile material used for map tiles. ... " />
+            <marker date="1539384847000" expanded="true" signature="5382:5441" ph="{...}" />
+            <marker date="1539384847000" expanded="true" signature="5393:5437" ph="{...}" />
+            <marker date="1539384847000" expanded="true" signature="5477:5538" ph="{...}" />
+            <marker date="1539384847000" expanded="true" signature="5488:5534" ph="{...}" />
+            <marker date="1539384847000" expanded="true" signature="5556:9604" ph="Public Methods" />
+            <marker date="1539384847000" expanded="true" signature="5581:5963" ph="/// Initialize the map using the specified latLon and zoom. ... " />
+            <marker date="1539384847000" expanded="true" signature="6023:6311" ph="{...}" />
+            <marker date="1539384847000" expanded="true" signature="6083:6126" ph="{...}" />
+            <marker date="1539384847000" expanded="true" signature="6346:6446" ph="{...}" />
+            <marker date="1539384847000" expanded="true" signature="6496:6532" ph="{...}" />
+            <marker date="1539384847000" expanded="true" signature="6577:6677" ph="{...}" />
+            <marker date="1539384847000" expanded="true" signature="6681:7064" ph="/// Updates the map. ... " />
+            <marker date="1539384847000" expanded="true" signature="7125:8683" ph="{...}" />
+            <marker date="1539384847000" expanded="true" signature="7394:7423" ph="{...}" />
+            <marker date="1539384847000" expanded="true" signature="8445:8562" ph="{...}" />
+            <marker date="1539384847000" expanded="true" signature="8652:8679" ph="{...}" />
+            <marker date="1539384847000" expanded="true" signature="8687:8807" ph="/// Resets the map. ... " />
+            <marker date="1539384847000" expanded="true" signature="8860:9107" ph="{...}" />
+            <marker date="1539384847000" expanded="true" signature="9141:9591" ph="{...}" />
+            <marker date="1539384847000" expanded="true" signature="9152:9587" ph="{...}" />
+            <marker date="1539384847000" expanded="true" signature="9202:9477" ph="{...}" />
+            <marker date="1539384847000" expanded="true" signature="9404:9438" ph="{...}" />
+            <marker date="1539384847000" expanded="true" signature="9506:9551" ph="{...}" />
+            <marker date="1539384847000" expanded="false" signature="9608:19383" ph="Private/Protected Methods" />
+            <marker date="1539384847000" expanded="true" signature="9674:9801" ph="{...}" />
+            <marker date="1539384847000" expanded="true" signature="9868:9963" ph="{...}" />
+            <marker date="1539384847000" expanded="true" signature="9933:9959" ph="{...}" />
+            <marker date="1539384847000" expanded="true" signature="10002:10113" ph="{...}" />
+            <marker date="1539384847000" expanded="true" signature="10116:10327" ph="/// Sets up map. ... " />
+            <marker date="1539384847000" expanded="true" signature="10363:10915" ph="{...}" />
+            <marker date="1539384847000" expanded="true" signature="10469:10514" ph="{...}" />
+            <marker date="1539384847000" expanded="true" signature="10566:10611" ph="{...}" />
+            <marker date="1539384847000" expanded="true" signature="10666:10713" ph="{...}" />
+            <marker date="1539384847000" expanded="true" signature="10807:10881" ph="{...}" />
+            <marker date="1539384847000" expanded="true" signature="10990:11389" ph="{...}" />
+            <marker date="1539384847000" expanded="true" signature="11111:11385" ph="{...}" />
+            <marker date="1539384847000" expanded="true" signature="11225:11270" ph="{...}" />
+            <marker date="1539384847000" expanded="true" signature="11279:11380" ph="{...}" />
+            <marker date="1539384847000" expanded="true" signature="11325:11373" ph="{...}" />
+            <marker date="1539384847000" expanded="true" signature="11466:11513" ph="{...}" />
+            <marker date="1539384847000" expanded="true" signature="11595:11645" ph="{...}" />
+            <marker date="1539384847000" expanded="true" signature="11681:11709" ph="{...}" />
+            <marker date="1539384847000" expanded="true" signature="11713:11940" ph="/// Apply Snap World to Zero setting by moving map in Y Axis such that ... " />
+            <marker date="1539384847000" expanded="true" signature="12001:12371" ph="{...}" />
+            <marker date="1539384847000" expanded="true" signature="12053:12233" ph="{...}" />
+            <marker date="1539384847000" expanded="true" signature="12241:12367" ph="{...}" />
+            <marker date="1539384847000" expanded="true" signature="12375:12498" ph="/// Initializes the map using the mapOptions. ... " />
+            <marker date="1539384847000" expanded="true" signature="12557:14350" ph="{...}" />
+            <marker date="1539384847000" expanded="true" signature="13360:13429" ph="{...}" />
+            <marker date="1539384847000" expanded="true" signature="13526:13607" ph="{...}" />
+            <marker date="1539384847000" expanded="true" signature="13719:13809" ph="{...}" />
+            <marker date="1539384847000" expanded="true" signature="13909:14006" ph="{...}" />
+            <marker date="1539384847000" expanded="true" signature="14104:14199" ph="{...}" />
+            <marker date="1539384847000" expanded="true" signature="14387:14715" ph="{...}" />
+            <marker date="1539384847000" expanded="true" signature="14439:14711" ph="{...}" />
+            <marker date="1539384847000" expanded="true" signature="14754:15234" ph="{...}" />
+            <marker date="1539384847000" expanded="true" signature="14810:15230" ph="{...}" />
+            <marker date="1539384847000" expanded="true" signature="15268:16062" ph="{...}" />
+            <marker date="1539384847000" expanded="true" signature="15338:16006" ph="{...}" />
+            <marker date="1539384847000" expanded="true" signature="15527:15951" ph="{...}" />
+            <marker date="1539384847000" expanded="true" signature="16014:16058" ph="{...}" />
+            <marker date="1539384847000" expanded="true" signature="16131:16950" ph="{...}" />
+            <marker date="1539384847000" expanded="true" signature="16367:16499" ph="{...}" />
+            <marker date="1539384847000" expanded="true" signature="16452:16494" ph="{...}" />
+            <marker date="1539384847000" expanded="true" signature="16534:16581" ph="{...}" />
+            <marker date="1539384847000" expanded="true" signature="16620:16720" ph="{...}" />
+            <marker date="1539384847000" expanded="true" signature="16761:16946" ph="{...}" />
+            <marker date="1539384847000" expanded="true" signature="16807:16941" ph="{...}" />
+            <marker date="1539384847000" expanded="true" signature="17026:17080" ph="{...}" />
+            <marker date="1539384847000" expanded="true" signature="17161:17294" ph="{...}" />
+            <marker date="1539384847000" expanded="true" signature="17195:17260" ph="{...}" />
+            <marker date="1539384847000" expanded="true" signature="17381:17688" ph="{...}" />
+            <marker date="1539384847000" expanded="true" signature="17484:17684" ph="{...}" />
+            <marker date="1539384847000" expanded="true" signature="17617:17659" ph="{...}" />
+            <marker date="1539384847000" expanded="true" signature="17728:17928" ph="{...}" />
+            <marker date="1539384847000" expanded="true" signature="18008:18281" ph="{...}" />
+            <marker date="1539384847000" expanded="true" signature="18135:18258" ph="{...}" />
+            <marker date="1539384847000" expanded="true" signature="18359:18414" ph="{...}" />
+            <marker date="1539384847000" expanded="true" signature="18497:19068" ph="{...}" />
+            <marker date="1539384847000" expanded="true" signature="18625:18878" ph="{...}" />
+            <marker date="1539384847000" expanded="true" signature="18635:18747" ph="/* we got a visualizer. Update only the visualizer. ... */" />
+            <marker date="1539384847000" expanded="true" signature="18886:19045" ph="{...}" />
+            <marker date="1539384847000" expanded="true" signature="18896:19011" ph="/* We are updating a core property of vector section. ... */" />
+            <marker date="1539384847000" expanded="true" signature="19108:19369" ph="{...}" />
+            <marker date="1539384847000" expanded="true" signature="19227:19271" ph="{...}" />
+            <marker date="1539384847000" expanded="false" signature="19387:23115" ph="Conversion and Height Query Methods" />
+            <marker date="1539384847000" expanded="true" signature="19497:19833" ph="{...}" />
+            <marker date="1539384847000" expanded="true" signature="19924:20433" ph="{...}" />
+            <marker date="1539384847000" expanded="true" signature="20173:20375" ph="{...}" />
+            <marker date="1539384847000" expanded="true" signature="20383:20428" ph="{...}" />
+            <marker date="1539384847000" expanded="true" signature="20437:20766" ph="/// Converts a latitude longitude into map space position. ... " />
+            <marker date="1539384847000" expanded="true" signature="20863:21754" ph="{...}" />
+            <marker date="1539384847000" expanded="true" signature="20951:21729" ph="{...}" />
+            <marker date="1539384847000" expanded="true" signature="21299:21724" ph="{...}" />
+            <marker date="1539384847000" expanded="true" signature="21328:21718" ph="{...}" />
+            <marker date="1539384847000" expanded="true" signature="21342:21535" ph="/* Calculate height in the local space of the tile gameObject. ... */" />
+            <marker date="1539384847000" expanded="true" signature="21758:21970" ph="/// Converts a position in map space into a laitude longitude. ... " />
+            <marker date="1539384847000" expanded="true" signature="22039:22323" ph="{...}" />
+            <marker date="1539384847000" expanded="true" signature="22327:22534" ph="/// Queries the real world elevation data in Unity units at a given latitude longitude. ... " />
+            <marker date="1539384847000" expanded="true" signature="22604:22697" ph="{...}" />
+            <marker date="1539384847000" expanded="true" signature="22701:22903" ph="/// Queries the real world elevation data in Meters at a given latitude longitude. ... " />
+            <marker date="1539384847000" expanded="true" signature="22969:23102" ph="{...}" />
+            <marker date="1539384847000" expanded="false" signature="23119:26689" ph="Map Property Related Changes Methods" />
+            <marker date="1539384847000" expanded="true" signature="23228:23273" ph="{...}" />
+            <marker date="1539384847000" expanded="true" signature="23357:23549" ph="{...}" />
+            <marker date="1539384847000" expanded="true" signature="23607:23647" ph="{...}" />
+            <marker date="1539384847000" expanded="true" signature="23714:23766" ph="{...}" />
+            <marker date="1539384847000" expanded="true" signature="23828:23876" ph="{...}" />
+            <marker date="1539384847000" expanded="true" signature="23880:24090" ph="/// Sets the extent type and parameters to control the maps extent. ... " />
+            <marker date="1539384847000" expanded="true" signature="24184:24496" ph="{...}" />
+            <marker date="1539384847000" expanded="true" signature="24270:24464" ph="{...}" />
+            <marker date="1539384847000" expanded="true" signature="24410:24459" ph="{...}" />
+            <marker date="1539384847000" expanded="true" signature="24500:24671" ph="/// Set parameters for current extent calculator strategy. ... " />
+            <marker date="1539384847000" expanded="true" signature="24739:24885" ph="{...}" />
+            <marker date="1539384847000" expanded="true" signature="24889:25321" ph="/// Sets the positions of the map's root transform. ... " />
+            <marker date="1539384847000" expanded="true" signature="25392:25508" ph="{...}" />
+            <marker date="1539384847000" expanded="true" signature="25512:25741" ph="/// Translates map root by the terrain elevation at the center geo location. ... " />
+            <marker date="1539384847000" expanded="true" signature="25790:25899" ph="{...}" />
+            <marker date="1539384847000" expanded="true" signature="25903:26073" ph="/// Sets the map to use real world scale for map tile. ... " />
+            <marker date="1539384847000" expanded="true" signature="26111:26233" ph="{...}" />
+            <marker date="1539384847000" expanded="true" signature="26237:26428" ph="/// Sets the map to use custom scale for map tiles. ... " />
+            <marker date="1539384847000" expanded="true" signature="26493:26676" ph="{...}" />
+            <marker date="1539384847000" expanded="false" signature="26693:27172" ph="Events" />
+            <marker date="1539384847000" expanded="true" signature="26710:26833" ph="/// Event delegate, gets called after map is initialized ... " />
+            <marker date="1539384847000" expanded="true" signature="26888:27060" ph="/// Event delegate, gets called after map is updated. ... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Voodoo/Scripts/Utils/MapBoxUtilsExtended.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="5" column="29" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
+          <folding>
+            <marker date="1551803695136" expanded="false" signature="6:98" ph="..." />
+            <marker date="1551803695136" expanded="true" signature="129:490" ph="{...}" />
+            <marker date="1551803695136" expanded="true" signature="172:488" ph="{...}" />
+            <marker date="1551803695136" expanded="true" signature="234:323" ph="{...}" />
+            <marker date="1551803695136" expanded="true" signature="383:485" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Voodoo/Scripts/UserLocalization.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="596">
+          <caret line="25" column="57" selection-start-line="25" selection-start-column="57" selection-end-line="25" selection-end-column="57" />
+          <folding>
+            <marker date="1551803846344" expanded="true" signature="6:149" ph="..." />
+            <marker date="1551803846344" expanded="true" signature="236:684" ph="{...}" />
+            <marker date="1551803846344" expanded="true" signature="291:356" ph="{...}" />
+            <marker date="1551803846344" expanded="true" signature="439:682" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
