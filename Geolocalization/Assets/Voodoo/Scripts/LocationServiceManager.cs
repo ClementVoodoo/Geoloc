@@ -14,7 +14,6 @@ public class LocationServiceManager : SingletonMB<LocationServiceManager>
 
     private IEnumerator GetLocationCoroutine(Callback callback)
     {
-        callback(Vector2.zero);
         if (!Input.location.isEnabledByUser)
         {
             yield break;
